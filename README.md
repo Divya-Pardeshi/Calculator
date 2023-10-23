@@ -1,4 +1,4 @@
-# 🌟 Beautiful Basic Calculator
+# 🌟 Basic Calculator
 
 This is a simple basic calculator project created in Python using Flask and developed in Visual Studio Code.
 
@@ -17,8 +17,10 @@ This project implements a visually enhanced basic calculator web application tha
 
 ### 🖼️ Screenshots
 
-![Screenshot 1]
-![Screenshot 2]
+![Screenshot 1] ![Screenshot 1](https://github.com/Divya-Pardeshi/Calculator/assets/114762794/a91aa4ef-4db5-45c1-b94c-a2ca7db13485)
+
+![Screenshot 2] ![Screenshot 2](https://github.com/Divya-Pardeshi/Calculator/assets/114762794/5003eb63-08cf-4789-98e0-e2c850e8fe26)
+
 
 ### 🚀 How to Use
 
@@ -47,7 +49,7 @@ To set up the project locally or contribute to it, follow these steps:
 
 ## 🎬 Demo
 
-Check out the [demo video](https://www.youtube.com/your_demo_video) to see how the basic calculator works.
+Check out the [demo video](https://www.youtube.com/watch?v=0xbkMsLmh9k&ab_channel=DivyaPardeshi) to see how the basic calculator works.
 
 ## 📂 Folder Structure
 
