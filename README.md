@@ -18,12 +18,9 @@ This project implements a visually enhanced basic calculator web application tha
 ### 🖼️ Screenshots
 
 #### Screenshot 1
+![Screenshot 1](https://github.com/Divya-Pardeshi/Calculator/assets/114762794/8fae9c90-092f-4569-ade5-b5c3cef5ee68)
 
-![Screenshot 1](https://github.com/Divya-Pardeshi/Calculator/raw/main/assets/114762794/a91aa4ef-4db5-45c1-b94c-a2ca7db13485.png)
-
-#### Screenshot 2
-
-![Screenshot 2](https://github.com/Divya-Pardeshi/Calculator/raw/main/assets/114762794/5003eb63-08cf-4789-98e0-e2c850e8fe26.png)
+![Screenshot 2](https://github.com/Divya-Pardeshi/Calculator/assets/114762794/26178c25-b2bb-4c5f-b0ce-b9bd3f8ebb1b)
 
 
 
