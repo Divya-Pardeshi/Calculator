@@ -1,0 +1,48 @@
+/* Add your CSS styles here */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9e54d;
+}
+
+.calculator {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #37a9de; 
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333333;
+  font-weight: bold;
+}
+
+form {
+  margin-top: 30px;
+}
+
+input[type="number"], select, input[type="submit"] {
+  width: 250px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #b78e36;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: #eeee32;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.result {
+  margin-top: 30px;
+  color: #333333;
+  font-size: 18px;
+}
